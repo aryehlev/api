@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00332acd-aa30-481f-bce8-ad77d418c66f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/plainid/assignment/Handlers/BattleHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/plainid/assignment/Handlers/TrainerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/plainid/assignment/dao/BattleResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/plainid/assignment/dao/StatusType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/plainid/assignment/dao/Trainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/plainid/assignment/dao/TrainerList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/plainid/assignment/BattleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/plainid/assignment/RootTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/plainid/assignment/TrainerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/plainid/assignment/Handlers/DataHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/plainid/assignment/controller/BattleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/plainid/assignment/controller/BattleController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/plainid/assignment/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/plainid/assignment/controller/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/plainid/assignment/controller/PokemonController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/plainid/assignment/controller/PokemonController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/plainid/assignment/controller/TrainerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/plainid/assignment/controller/TrainerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/plainid/assignment/converter/mapper/PokemonRawMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/plainid/assignment/converter/mapper/PokemonRowMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/plainid/assignment/converter/mapper/TrainerRowMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/plainid/assignment/converter/mapper/TrainerRowMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/plainid/assignment/dao/PokemonList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/plainid/assignment/dao/PokemonList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/schema.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/plainid/assignment/PokemonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/plainid/assignment/PokemonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +169,7 @@
       <workItem from="1591779493149" duration="6214000" />
       <workItem from="1591883108166" duration="6716000" />
       <workItem from="1627458398175" duration="33356000" />
-      <workItem from="1627544767653" duration="5081000" />
+      <workItem from="1627544767653" duration="5258000" />
     </task>
     <task id="LOCAL-00001" summary="Convert books to pokemons">
       <created>1591891631604</created>
